@@ -6,6 +6,12 @@ I'm Harry Chew, a UK-based game developer with a passion for creating interactiv
 
 [Website](https://harrychew.co.uk) | [LinkedIn](https://linkedin.com/in/harry-chew) | [Itch](https://harrychew.itch.io)
 
+## Mentorship
+I mentor developers learning Unity, programming, and game development.
+
+If you're interested in structured guidance or 1:1 sessions:
+[Mentorship](https://harrychew.co.uk/mentorship)
+
 ## Projects  
 ### Game Development  
 - **Bomb-Defusal** (C#): Glimmer Jam #1 entry - 2hr game jam  
