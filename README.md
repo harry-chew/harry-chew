@@ -39,5 +39,5 @@ I work with a variety of tools and languages including:
 
 ## Contact  
 Want to collaborate or have questions? Reach out via:  
-Email: [harry@harrychew.co.uk](mailto:harry@harrychew.co.uk)  
+Contact: [harrychew.co.uk/contact](https://harrychew.co.uk/contact)  
 LinkedIn: [linkedin.com/in/harry-chew](https://linkedin.com/in/harry-chew)
