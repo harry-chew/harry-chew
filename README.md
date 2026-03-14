@@ -12,26 +12,6 @@ I mentor developers learning Unity, programming, and game development.
 If you're interested in structured guidance or 1:1 sessions:
 [Mentorship](https://harrychew.co.uk/mentorship)
 
-## Projects  
-### Game Development  
-- **Bomb-Defusal** (C#): Glimmer Jam #1 entry - 2hr game jam  
-- **propmania** (Squirrel): L4D2 Mod  
-
-### Tools & Utilities  
-- **flappy-chappy-db** (JavaScript): API for tracking game scores  
-- **ffmpeg** (JavaScript): Image-to-video webapp  
-
-### Learning & Exploration  
-- **Dino-API** (JavaScript): Basic API for learning modern frameworks  
-- **convert** (JavaScript): Simple unit conversion app  
-- **chuck** (CSS): Chuck Norris joke API  
-
-## Technologies  
-I work with a variety of tools and languages including:  
-- C# (Unity)  
-- JavaScript/TypeScript  
-- PHP  
-
 ## Contact  
 Want to collaborate or have questions? Reach out via:  
 Contact: [harrychew.co.uk/contact](https://harrychew.co.uk/contact)  
